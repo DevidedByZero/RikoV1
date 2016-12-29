@@ -1,0 +1,1 @@
+﻿SELECT update_description(73, 'double test');
