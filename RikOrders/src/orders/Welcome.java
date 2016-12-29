@@ -1,5 +1,11 @@
 package orders;
 
+/** Customer order project
+ *	@author Michael K.
+ *  @date   December 2016
+*/
+
+
 import java.io.IOException;
 import java.util.List;
 
